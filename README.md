@@ -66,9 +66,9 @@ Everything I build converges on one thesis: **moving AI from generated content t
 
 <div align="center">
 
-<a href="#cat-llm"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=header&text=%F0%9F%A7%A0%20LLM%20Infrastructure%20%26%20Gateways&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=55" width="49%"/></a><a href="#cat-research"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=90&section=header&text=%F0%9F%94%AC%20Research%20%26%20Embodiment&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=55" width="49%"/></a>
+<a href="#cat-llm"><img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/main/assets/mini-llm.svg" width="49%" alt="LLM Infrastructure &amp; Gateways"/></a><a href="#cat-research"><img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/main/assets/mini-research.svg" width="49%" alt="Research &amp; Embodiment"/></a>
 
-<a href="#cat-web3"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,11&height=90&section=header&text=%E2%9B%93%EF%B8%8F%20Web3%20%26%20Market%20Automation&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=55" width="49%"/></a><a href="#cat-social"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,6&height=90&section=header&text=%F0%9F%A4%96%20Social%20Agents%20%26%20Clients&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=55" width="49%"/></a>
+<a href="#cat-web3"><img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/main/assets/mini-web3.svg" width="49%" alt="Web3 &amp; Market Automation"/></a><a href="#cat-social"><img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/main/assets/mini-social.svg" width="49%" alt="Social Agents &amp; Clients"/></a>
 
 </div>
 

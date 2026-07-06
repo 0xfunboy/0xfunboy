@@ -1,0 +1,22 @@
+<svg width="600" height="110" viewBox="0 0 600 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g-mini-social" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7">
+        <animate attributeName="stop-color" values="#a855f7;#4c1d95;#22d3ee;#a855f7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#4c1d95">
+        <animate attributeName="stop-color" values="#4c1d95;#22d3ee;#a855f7;#4c1d95" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#a855f7;#4c1d95;#22d3ee" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g-mini-social)" d="M0,0 H600 V78 C500,108 380,60 300,82 C220,104 100,64 0,88 Z">
+    <animate attributeName="d" values="M0,0 H600 V78 C500,108 380,60 300,82 C220,104 100,64 0,88 Z;M0,0 H600 V88 C500,58 380,104 300,80 C220,58 100,102 0,74 Z;M0,0 H600 V78 C500,108 380,60 300,82 C220,104 100,64 0,88 Z" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <text x="300" y="46" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="24" font-weight="700" fill="#ffffff" opacity="0">
+    🤖 Social Agents &amp; Clients
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+  </text>
+</svg>
