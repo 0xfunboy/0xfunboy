@@ -66,17 +66,13 @@ Everything I build converges on one thesis: **moving AI from generated content t
 
 <div align="center">
 
-<a href="https://github.com/0xfunboy/NexGate"><img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/main/assets/card-nexgate.svg" alt="NexGate"/></a>
-<a href="https://github.com/0xfunboy/ZordBOT"><img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/main/assets/card-zordbot.svg" alt="ZordBOT"/></a>
+<a href="#cat-llm"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=header&text=%F0%9F%A7%A0%20LLM%20Infrastructure%20%26%20Gateways&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=55" width="49%"/></a><a href="#cat-research"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=90&section=header&text=%F0%9F%94%AC%20Research%20%26%20Embodiment&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=55" width="49%"/></a>
 
-<a href="https://github.com/0xfunboy/Somatic"><img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/main/assets/card-somatic.svg" alt="Somatic"/></a>
-<a href="https://github.com/0xfunboy/Eliza2Face"><img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/main/assets/card-eliza2face.svg" alt="Eliza2Face"/></a>
-
-<a href="https://github.com/0xfunboy/RIP2ETF"><img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/main/assets/card-rip2etf.svg" alt="RIP2ETF"/></a>
-<a href="https://github.com/0xfunboy/vintel"><img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/main/assets/card-vintel.svg" alt="vintel"/></a>
+<a href="#cat-web3"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,11&height=90&section=header&text=%E2%9B%93%EF%B8%8F%20Web3%20%26%20Market%20Automation&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=55" width="49%"/></a><a href="#cat-social"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,6&height=90&section=header&text=%F0%9F%A4%96%20Social%20Agents%20%26%20Clients&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=55" width="49%"/></a>
 
 </div>
 
+<a id="cat-llm"></a>
 <details>
 <summary><b>🧠 LLM Infrastructure & Gateways</b></summary>
 <br/>
@@ -88,6 +84,7 @@ Everything I build converges on one thesis: **moving AI from generated content t
 
 </details>
 
+<a id="cat-research"></a>
 <details>
 <summary><b>🔬 Research & Embodiment</b></summary>
 <br/>
@@ -98,6 +95,7 @@ Everything I build converges on one thesis: **moving AI from generated content t
 
 </details>
 
+<a id="cat-web3"></a>
 <details>
 <summary><b>⛓️ Web3 & Market Automation</b></summary>
 <br/>
@@ -108,6 +106,7 @@ Everything I build converges on one thesis: **moving AI from generated content t
 
 </details>
 
+<a id="cat-social"></a>
 <details>
 <summary><b>🤖 Social Agents & Clients</b></summary>
 <br/>
