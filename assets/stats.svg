@@ -1,0 +1,19 @@
+<svg width="440" height="195" viewBox="0 0 440 195" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="438" height="193" rx="10" fill="#0a0a1a" stroke="#a855f7" stroke-width="1.5"/>
+<text x="22" y="34" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="17" font-weight="700" fill="#a855f7">funboy's GitHub Stats</text>
+<text x="22" y="66" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#22d3ee">⭐</text>
+<text x="48" y="66" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" font-weight="600" fill="#c9d1d9">Total Stars Earned:</text>
+<text x="215" y="66" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#22d3ee">6</text>
+<text x="22" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#22d3ee">📦</text>
+<text x="48" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" font-weight="600" fill="#c9d1d9">Original Projects:</text>
+<text x="215" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#22d3ee">26</text>
+<text x="22" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#22d3ee">🗣</text>
+<text x="48" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" font-weight="600" fill="#c9d1d9">Languages Used:</text>
+<text x="215" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#22d3ee">13</text>
+<text x="22" y="153" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#22d3ee">🧠</text>
+<text x="48" y="153" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" font-weight="600" fill="#c9d1d9">Core Focus:</text>
+<text x="215" y="153" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#22d3ee">AI Agents / LLM Infra / Web3</text>
+<text x="22" y="182" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#22d3ee">🖥</text>
+<text x="48" y="182" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" font-weight="600" fill="#c9d1d9">Runs On:</text>
+<text x="215" y="182" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#22d3ee">Self-hosted GPU infrastructure</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="440" height="165" viewBox="0 0 440 165" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="438" height="163" rx="10" fill="#0a0a1a" stroke="#a855f7" stroke-width="1.5"/>
+<g transform="translate(20,20)"><path fill="#22d3ee" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></g>
+<text x="44" y="33" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="17" font-weight="700" fill="#a855f7">ZordBOT</text>
+<g transform="translate(382,20)"><path fill="#e3b341" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/><text x="20" y="13" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="13" fill="#c9d1d9">3</text></g>
+<text x="22" y="60" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12.5" fill="#c9d1d9">Zcash Ordinal mint Bot</text>
+<rect x="22" y="123" width="396" height="8" rx="4" fill="#21262d"/>
+<clipPath id="barZordBOT"><rect x="22" y="123" width="396" height="8" rx="4"/></clipPath><g clip-path="url(#barZordBOT)">
+<rect x="22.0" y="123" width="377.4" height="8" fill="#3572A5"/>
+<rect x="399.4" y="123" width="18.6" height="8" fill="#89e051"/>
+</g>
+<circle cx="27" cy="149" r="5" fill="#3572A5"/>
+<text x="37" y="153" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11.5" fill="#8b949e">Python 95%</text>
+<circle cx="120" cy="149" r="5" fill="#89e051"/>
+<text x="130" y="153" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11.5" fill="#8b949e">Shell 5%</text>
+</svg>

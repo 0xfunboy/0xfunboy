@@ -1,0 +1,28 @@
+<svg width="440" height="195" viewBox="0 0 440 195" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="438" height="193" rx="10" fill="#0a0a1a" stroke="#a855f7" stroke-width="1.5"/>
+<text x="22" y="34" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="17" font-weight="700" fill="#a855f7">Most Used Languages</text>
+<text x="22" y="68" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12.5" font-weight="600" fill="#c9d1d9">TypeScript</text>
+<text x="380" y="68" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12" fill="#8b949e">78.2%</text>
+<rect x="115" y="60" width="250" height="9" rx="4.5" fill="#21262d"/>
+<rect x="115" y="60" width="195.4" height="9" rx="4.5" fill="#3178c6"/>
+<text x="22" y="91" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12.5" font-weight="600" fill="#c9d1d9">Python</text>
+<text x="380" y="91" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12" fill="#8b949e">8.6%</text>
+<rect x="115" y="83" width="250" height="9" rx="4.5" fill="#21262d"/>
+<rect x="115" y="83" width="21.4" height="9" rx="4.5" fill="#3572A5"/>
+<text x="22" y="114" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12.5" font-weight="600" fill="#c9d1d9">PHP</text>
+<text x="380" y="114" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12" fill="#8b949e">6.4%</text>
+<rect x="115" y="106" width="250" height="9" rx="4.5" fill="#21262d"/>
+<rect x="115" y="106" width="16.0" height="9" rx="4.5" fill="#4F5D95"/>
+<text x="22" y="137" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12.5" font-weight="600" fill="#c9d1d9">JavaScript</text>
+<text x="380" y="137" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12" fill="#8b949e">3.3%</text>
+<rect x="115" y="129" width="250" height="9" rx="4.5" fill="#21262d"/>
+<rect x="115" y="129" width="8.2" height="9" rx="4.5" fill="#f1e05a"/>
+<text x="22" y="160" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12.5" font-weight="600" fill="#c9d1d9">Vue</text>
+<text x="380" y="160" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12" fill="#8b949e">2.5%</text>
+<rect x="115" y="152" width="250" height="9" rx="4.5" fill="#21262d"/>
+<rect x="115" y="152" width="6.4" height="9" rx="4.5" fill="#41b883"/>
+<text x="22" y="183" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12.5" font-weight="600" fill="#c9d1d9">Shell</text>
+<text x="380" y="183" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12" fill="#8b949e">1.0%</text>
+<rect x="115" y="175" width="250" height="9" rx="4.5" fill="#21262d"/>
+<rect x="115" y="175" width="4.0" height="9" rx="4.5" fill="#89e051"/>
+</svg>
