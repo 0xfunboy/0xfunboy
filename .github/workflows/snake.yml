@@ -1,8 +1,8 @@
-name: Generate Snake Animation
+name: Refresh Profile Visuals
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -11,20 +11,33 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Check out profile sources
+        uses: actions/checkout@v4
+
+      - name: Refresh statistics, languages, streaks and activity
+        run: python3 scripts/update-profile-metrics.py --username "$PROFILE_USER" --output-dir dist
+        env:
+          PROFILE_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ github.token }}
+
       - name: Generate snake game from contribution graph
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake.svg?color_snake=#ea580c&color_dots=#e5e7eb,#c8e4e8,#86bec7,#4f8f9c,#235866
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#fb923c&color_dots=#121c27,#294454,#3b6876,#57929e,#88c7cc
 
-      - name: Push snake SVGs to output branch
+      - name: Publish profile visuals to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

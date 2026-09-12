@@ -9,8 +9,13 @@
   <a href="#user-content-selected-work">Selected work</a> ·
   <a href="#user-content-inference--hardware">Inference &amp; hardware</a> ·
   <a href="#user-content-agents--embodiment">Agents &amp; embodiment</a> ·
+  <a href="#user-content-github-in-numbers">GitHub activity</a> ·
   <a href="https://airewardrop.xyz">AIRewardrop</a> ·
   <a href="https://x.com/funB0Tnft">Connect on X</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xfunboy&amp;style=flat-square&amp;color=fb923c&amp;label=PROFILE+VIEWS" alt="GitHub profile view counter">
 </p>
 
 ## I build the systems around the intelligence.
@@ -117,6 +122,40 @@ Beyond the projects above, I build the components that give those agents a prese
 | Products & interfaces | Vue · React · native web interfaces · Telegram · Unreal Engine · TTS / STT |
 | Infrastructure & data | Linux · systemd · networking · USB4 · Cloudflare · MongoDB · PostgreSQL |
 
+<p align="center">
+  <img src="assets/stack.svg" alt="Technology stack: TypeScript, Go, Rust, Python, C++, Node.js, Vue, React, PyTorch, Linux, Bash, Git, MongoDB, PostgreSQL, Unreal Engine and Cloudflare" width="640">
+</p>
+
+## GitHub in numbers
+
+A view of my public repositories and ongoing work, updated daily from GitHub.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/output/stats.svg" alt="GitHub statistics for my public repositories, refreshed daily" width="400">
+  <img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/output/toplangs.svg" alt="Language composition by code bytes across my public repositories, excluding forks" width="400">
+</p>
+
+## Consistency & activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/output/streak.svg" alt="Contribution streaks and total contributions from my public GitHub profile calendar" width="700">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/output/activity.svg" alt="Daily GitHub contributions over the last 90 days" width="100%">
+</p>
+
+## Contribution snake
+
+A nod to my retrogaming roots, tracing the contribution calendar one square at a time.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xfunboy/0xfunboy/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/output/github-snake.svg" alt="Snake animation tracing my GitHub contribution graph" width="100%">
+  </picture>
+</p>
+
 ---
 
 <p align="center">
@@ -127,13 +166,3 @@ Beyond the projects above, I build the components that give those agents a prese
   <a href="https://t.me/funboynft">Telegram</a> ·
   <a href="https://github.com/0xfunboy?tab=repositories">Explore all repositories</a>
 </p>
-
-<details>
-<summary>From my retrogaming roots: the contribution snake</summary>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xfunboy/0xfunboy/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/0xfunboy/0xfunboy/output/github-snake.svg" alt="Snake animation tracing my GitHub contribution graph" width="100%">
-  </picture>
-</p>
-</details>
