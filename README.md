@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="#selected-work">Selected work</a> ·
-  <a href="#inference--hardware">Inference &amp; hardware</a> ·
-  <a href="#agents--embodiment">Agents &amp; embodiment</a> ·
+  <a href="#user-content-selected-work">Selected work</a> ·
+  <a href="#user-content-inference--hardware">Inference &amp; hardware</a> ·
+  <a href="#user-content-agents--embodiment">Agents &amp; embodiment</a> ·
   <a href="https://airewardrop.xyz">AIRewardrop</a> ·
   <a href="https://x.com/funB0Tnft">Connect on X</a>
 </p>
