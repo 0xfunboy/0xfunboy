@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Dual Strix Halo inference lab</title>
+  <desc id="desc">Two EVO-X3 systems connected by USB4. Each has a Ryzen AI Max+ 395, Radeon 8060S graphics, and 128 GB of unified memory. The 256 GB aggregate memory is installed across two separate nodes, with 128 GB per node. Research areas include ROCm, gfx1151, and tensor parallelism.</desc>
+  <rect width="640" height="640" rx="18" fill="#0b1119"/>
+  <rect x="1" y="1" width="638" height="638" rx="17" fill="none" stroke="#293543"/>
+  <path d="M 36 0 V 16" stroke="#fb923c" stroke-width="4"/>
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="36" y="57" fill="#f0f4f8" font-size="30" font-weight="650" letter-spacing="0.4">DUAL STRIX HALO LAB</text>
+    <text x="36" y="95" fill="#aab6c3" font-size="22">ROCm · gfx1151 · tensor parallelism</text>
+
+    <rect x="36" y="126" width="568" height="180" rx="12" fill="#121c27" stroke="#334456" stroke-width="1.5"/>
+    <rect x="36" y="376" width="568" height="180" rx="12" fill="#121c27" stroke="#334456" stroke-width="1.5"/>
+    <path d="M 36 152 V 184 M 36 402 V 434" stroke="#fb923c" stroke-width="3"/>
+
+    <g fill="none" stroke="#5c7586" stroke-width="2">
+      <path d="M 91 177 V 187 M 109 177 V 187 M 127 177 V 187 M 145 177 V 187 M 91 241 V 251 M 109 241 V 251 M 127 241 V 251 M 145 241 V 251 M 71 193 H 83 M 71 211 H 83 M 71 229 H 83 M 155 193 H 167 M 155 211 H 167 M 155 229 H 167"/>
+      <path d="M 91 427 V 437 M 109 427 V 437 M 127 427 V 437 M 145 427 V 437 M 91 491 V 501 M 109 491 V 501 M 127 491 V 501 M 145 491 V 501 M 71 443 H 83 M 71 461 H 83 M 71 479 H 83 M 155 443 H 167 M 155 461 H 167 M 155 479 H 167"/>
+    </g>
+    <g fill="#1b2b38" stroke="#81bdc5" stroke-width="1.5">
+      <rect x="83" y="187" width="72" height="54" rx="5"/>
+      <rect x="83" y="437" width="72" height="54" rx="5"/>
+    </g>
+    <g fill="#b6dbe0" font-size="22" font-weight="600" text-anchor="middle">
+      <text x="119" y="222">APU</text>
+      <text x="119" y="472">APU</text>
+    </g>
+
+    <g fill="#f0f4f8" font-size="30" font-weight="650">
+      <text x="194" y="168">EVO-X3</text>
+      <text x="194" y="418">EVO-X3</text>
+    </g>
+    <g fill="#cad3dc" font-size="25">
+      <text x="194" y="205">Ryzen AI Max+ 395</text>
+      <text x="194" y="455">Ryzen AI Max+ 395</text>
+      <text x="194" y="238">Radeon 8060S</text>
+      <text x="194" y="488">Radeon 8060S</text>
+    </g>
+    <g fill="#aab6c3" font-size="24">
+      <text x="194" y="278"><tspan fill="#f1c8a7" font-weight="600">128 GB</tspan> unified memory</text>
+      <text x="194" y="528"><tspan fill="#f1c8a7" font-weight="600">128 GB</tspan> unified memory</text>
+    </g>
+
+    <path d="M 320 306 V 376" fill="none" stroke="#d69a68" stroke-width="2"/>
+    <circle cx="320" cy="306" r="4" fill="#fb923c"/>
+    <circle cx="320" cy="376" r="4" fill="#fb923c"/>
+    <text x="345" y="350" fill="#f1c8a7" font-size="24" font-weight="600" letter-spacing="0.5">USB4</text>
+
+    <path d="M 36 580 H 604" stroke="#293543"/>
+    <text x="36" y="616" fill="#aab6c3" font-size="22"><tspan fill="#e0e6ed" font-weight="600">256 GB aggregate</tspan> · 128 GB per node</text>
+  </g>
+</svg>

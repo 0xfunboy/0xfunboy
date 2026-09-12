@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">0xfunboy — From agents to silicon.</title>
+  <desc id="desc">Founder and AI systems builder. Agent systems, inference engines, and hardware, illustrated as connected agents flowing through an inference runtime to two compute chips.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 H 0 V 28" fill="none" stroke="#22303d" stroke-width="0.7"/>
+    </pattern>
+    <linearGradient id="gridFade" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.65"/>
+    </linearGradient>
+    <mask id="gridMask">
+      <rect width="1280" height="420" fill="url(#gridFade)"/>
+    </mask>
+  </defs>
+
+  <rect width="1280" height="420" rx="18" fill="#0b1119"/>
+  <rect x="1" y="1" width="1278" height="418" rx="17" fill="none" stroke="#293543"/>
+  <rect x="640" y="1" width="639" height="418" rx="17" fill="url(#grid)" mask="url(#gridMask)"/>
+  <path d="M 56 0 V 20" stroke="#fb923c" stroke-width="4"/>
+
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="56" y="77" fill="#f0f4f8" font-size="30" font-weight="700" letter-spacing="-1">0xfunboy<tspan fill="#fb923c">.</tspan></text>
+    <text x="57" y="110" fill="#aab6c3" font-size="13" font-weight="600" letter-spacing="2.3">FOUNDER / AI SYSTEMS BUILDER</text>
+
+    <text x="52" y="214" fill="#f0f4f8" font-size="76" font-weight="700" letter-spacing="-3.5">From agents</text>
+    <text x="52" y="296" fill="#f0f4f8" font-size="76" font-weight="700" letter-spacing="-3.5">to silicon<tspan fill="#fb923c">.</tspan></text>
+
+    <path d="M 56 336 H 672" stroke="#2a3542"/>
+    <text x="56" y="373" fill="#aab6c3" font-size="13" font-weight="500" letter-spacing="1.5">AGENT SYSTEMS <tspan fill="#fb923c">/</tspan> INFERENCE ENGINES <tspan fill="#fb923c">/</tspan> HARDWARE</text>
+
+    <text x="820" y="61" fill="#8093a6" font-size="11" font-weight="600" letter-spacing="2">BUILD · MEASURE · REFINE</text>
+
+    <g fill="none" stroke="#496374" stroke-width="1.5">
+      <path d="M 856 145 V 163 H 1024 V 184"/>
+      <path d="M 1024 145 V 184"/>
+      <path d="M 1192 145 V 163 H 1024"/>
+      <path d="M 1024 254 V 274 H 912 V 304"/>
+      <path d="M 1024 274 H 1136 V 304"/>
+    </g>
+    <g fill="#6bb9c2">
+      <circle cx="856" cy="163" r="2.5"/>
+      <circle cx="1024" cy="163" r="3"/>
+      <circle cx="1192" cy="163" r="2.5"/>
+    </g>
+
+    <g fill="#121e29" stroke="#3b5363">
+      <rect x="820" y="93" width="72" height="52" rx="12"/>
+      <rect x="988" y="93" width="72" height="52" rx="12"/>
+      <rect x="1156" y="93" width="72" height="52" rx="12"/>
+    </g>
+    <g fill="none" stroke="#88c7cc" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 843 118 L 856 108 L 869 118 L 856 131 Z M 843 118 H 869 M 856 108 V 131"/>
+      <path d="M 1012 110 H 1036 V 128 H 1012 Z M 1018 105 V 110 M 1030 105 V 110 M 1018 128 V 133 M 1030 128 V 133"/>
+      <path d="M 1180 119 L 1192 107 L 1204 119 L 1192 131 Z M 1187 119 H 1197 M 1192 114 V 124"/>
+    </g>
+
+    <rect x="820" y="184" width="408" height="70" rx="10" fill="#17212c" stroke="#52606e"/>
+    <path d="M 820 202 V 236" stroke="#fb923c" stroke-width="3"/>
+    <text x="846" y="213" fill="#f0f4f8" font-size="18" font-weight="600">Inference runtime</text>
+    <text x="846" y="237" fill="#aab6c3" font-size="12" letter-spacing="1">ORCHESTRATE / EXECUTE / OPTIMIZE</text>
+    <circle cx="1202" cy="205" r="3" fill="#fb923c"/>
+
+    <g fill="none" stroke="#748294" stroke-width="2">
+      <path d="M 888 300 V 308 M 904 300 V 308 M 920 300 V 308 M 936 300 V 308 M 888 364 V 372 M 904 364 V 372 M 920 364 V 372 M 936 364 V 372 M 868 316 H 876 M 868 332 H 876 M 868 348 H 876 M 948 316 H 956 M 948 332 H 956 M 948 348 H 956"/>
+      <path d="M 1112 300 V 308 M 1128 300 V 308 M 1144 300 V 308 M 1160 300 V 308 M 1112 364 V 372 M 1128 364 V 372 M 1144 364 V 372 M 1160 364 V 372 M 1092 316 H 1100 M 1092 332 H 1100 M 1092 348 H 1100 M 1172 316 H 1180 M 1172 332 H 1180 M 1172 348 H 1180"/>
+    </g>
+    <rect x="876" y="308" width="72" height="56" rx="5" fill="#20272f" stroke="#dca070"/>
+    <rect x="1100" y="308" width="72" height="56" rx="5" fill="#20272f" stroke="#dca070"/>
+    <g fill="#f1c8a7" font-size="13" font-weight="600" text-anchor="middle" letter-spacing="0.7">
+      <text x="912" y="341">CPU</text>
+      <text x="1136" y="341">GPU</text>
+    </g>
+  </g>
+</svg>
