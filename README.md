@@ -77,6 +77,8 @@ I work across the stack: from a conversational interface and its tools to model 
 
 **Hardware is part of my development process.** I build and operate the machines, then work through the constraints that determine whether a model is actually usable: memory capacity, quantization, kernel support, interconnect cost and response latency.
 
+### Dual Strix Halo
+
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/inference-lab-mobile.svg">
@@ -86,9 +88,25 @@ I work across the stack: from a conversational interface and its tools to model 
 
 The [HaloClu reference deployment](https://github.com/0xfunboy/StrixHaloClusterGLM/blob/main/docs/REFERENCE_DEPLOYMENT.md) runs hybrid W4 GLM inference with **tensor parallelism across two nodes**, **RCCL Socket over USB4** and **DFlash2 speculative decoding**. The product layer brings that runtime into daily chat and supervised coding workflows.
 
-My inference work also includes:
+### aireward-llm · dual RTX 3090
 
-- **[Local LLM Autopilot](https://github.com/0xfunboy/llama.cpp-model-select)** — my llama.cpp fork, adding model discovery, hardware fit planning, measured evaluation and runtime selection to the native server UI.
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/aireward-llm-mobile.svg">
+    <img src="assets/aireward-llm.svg" alt="aireward-llm workstation: two NVIDIA GeForce RTX 3090 GPUs with 24 GB GDDR6X each, Intel Core i5-13500, 128 GB system RAM and 2 TB NVMe storage. The research goal is a hybrid cluster with both Strix Halo nodes." width="100%">
+  </picture>
+</p>
+
+**aireward-llm** is the NVIDIA workstation in my lab: **2 × GeForce RTX 3090**, an **Intel Core i5-13500**, **128 GB system RAM** and a **2 TB Samsung 990 PRO NVMe**. Each RTX 3090 has [24 GB of dedicated GDDR6X memory](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090-3090ti/). It brings agent development and multi-GPU inference research alongside the Strix Halo machines.
+
+### Toward a hybrid NVIDIA + AMD cluster
+
+My long-term goal is to combine **aireward-llm and both Strix Halo nodes** into a hybrid local AI cluster. I'm studying how to coordinate dedicated NVIDIA GPUs and AMD unified-memory systems through a common model-selection and orchestration layer.
+
+**[Local LLM Autopilot / llama.cpp-model-select](https://github.com/0xfunboy/llama.cpp-model-select)** provides the foundations: hardware-aware GGUF fit planning, CUDA and Vulkan worker selection, model lifecycle control, and recorded performance and quality evaluations. Its [cluster design](https://github.com/0xfunboy/llama.cpp-model-select/blob/master/docs/strix-halo-cluster.md) explores independent workers for request routing and replicas, plus ggml RPC for distributed models. Extending those approaches across the mixed hardware is **research in progress**, guided by memory fit, communication costs and comparisons against local baselines.
+
+Further inference work:
+
 - **[ds4-multicuda](https://github.com/0xfunboy/ds4-multicuda)** — my fork of antirez's ds4, exploring native CUDA multi-GPU expert placement across consumer GPUs and asymmetric PCIe links.
 - **[StrixHaloClusterDS41](https://github.com/0xfunboy/StrixHaloClusterDS41)** — an experimental DeepSeek V4.1 Flash runtime fork of HaloClu, exploring deployment on the same dual-Strix Halo platform.
 
