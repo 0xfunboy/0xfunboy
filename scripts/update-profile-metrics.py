@@ -194,7 +194,21 @@ def parse_calendar(html: str, today: date) -> Calendar:
         require((count == 0) == (cell["data-level"] == "0"), "Contribution count and level disagree")
         require(start <= day <= end, "Contribution date falls outside displayed calendar")
         daily[day] = count
-    expected = [start + timedelta(days=i) for i in range((end - start).days + 1)]
+    require(bool(daily), "Contribution calendar has no dated cells")
+    displayed_start = min(daily)
+    # At Sunday rollover GitHub can retain the preceding Sunday's data-from
+    # while rendering the new 365-day grid. Use the actual cells, but accept
+    # only that full-week padding difference and retain a complete year.
+    leading_padding = (displayed_start - start).days
+    require(
+        leading_padding == 0 or (
+            leading_padding == 7
+            and displayed_start.weekday() == 6
+            and (end - displayed_start).days >= 364
+        ),
+        "Contribution calendar has missing leading dates",
+    )
+    expected = [displayed_start + timedelta(days=i) for i in range((end - displayed_start).days + 1)]
     require(sorted(daily) == expected, "Contribution calendar has missing or unexpected dates")
     headline = re.match(r"^([\d,]+) contributions?\b", parser.heading)
     require(headline is not None, "Missing contribution total heading")

@@ -23,6 +23,9 @@ jobs:
       - name: Check out profile sources
         uses: actions/checkout@v4
 
+      - name: Check contribution calendar parsing
+        run: python3 -m unittest discover -s tests
+
       - name: Refresh statistics, languages, streaks and activity
         run: python3 scripts/update-profile-metrics.py --username "$PROFILE_USER" --output-dir dist
         env:
