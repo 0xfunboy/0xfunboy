@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="780" viewBox="0 0 640 780" role="img" aria-labelledby="title desc">
-<title id="title">aireward-llm — dual RTX 3090 workstation</title><desc id="desc">aireward-llm workstation with two NVIDIA GeForce RTX 3090 graphics cards, each with 24 GB GDDR6X dedicated memory. Intel Core i5-13500, 128 GB system RAM, and Samsung 990 PRO 2 TB NVMe. Dashed conceptual connection indicates the research goal of a hybrid cluster with two AMD Strix Halo nodes, not a verified operational link.</desc>
+<title id="title">aireward-llm: dual RTX 3090 workstation</title><desc id="desc">aireward-llm workstation with two NVIDIA GeForce RTX 3090 graphics cards, each with 24 GB GDDR6X dedicated memory. Intel Core i5-13500, 128 GB system RAM, and Samsung 990 PRO 2 TB NVMe. Dashed conceptual connection indicates the research goal of a hybrid cluster with two AMD Strix Halo nodes, not a verified operational link.</desc>
 <rect width="640" height="780" rx="18" fill="#0b1119"/>
 <rect x="1" y="1" width="638" height="778" rx="17" fill="none" stroke="#293543"/>
 <path d="M 56 0 V 20" stroke="#fb923c" stroke-width="4"/>

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
-  <title id="title">0xfunboy — From agents to silicon.</title>
+  <title id="title">0xfunboy: From agents to silicon.</title>
   <desc id="desc">Founder and AI systems builder. Agent systems, inference engines, and hardware, illustrated as connected agents flowing through an inference runtime to two compute chips.</desc>
   <defs>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">

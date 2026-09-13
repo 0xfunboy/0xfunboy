@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg">
-    <img src="assets/profile-hero.svg" alt="0xfunboy — Founder and AI systems builder. From agents to silicon: agent systems, inference engines and hardware." width="100%">
+    <img src="assets/profile-hero.svg" alt="0xfunboy: Founder and AI systems builder. From agents to silicon: agent systems, inference engines and hardware." width="100%">
   </picture>
 </p>
 
@@ -107,8 +107,8 @@ My long-term goal is to combine **aireward-llm and both Strix Halo nodes** into 
 
 Further inference work:
 
-- **[ds4-multicuda](https://github.com/0xfunboy/ds4-multicuda)** — my fork of antirez's ds4, exploring native CUDA multi-GPU expert placement across consumer GPUs and asymmetric PCIe links.
-- **[StrixHaloClusterDS41](https://github.com/0xfunboy/StrixHaloClusterDS41)** — an experimental DeepSeek V4.1 Flash runtime fork of HaloClu, exploring deployment on the same dual-Strix Halo platform.
+- **[ds4-multicuda](https://github.com/0xfunboy/ds4-multicuda)**: my fork of antirez's ds4, exploring native CUDA multi-GPU expert placement across consumer GPUs and asymmetric PCIe links.
+- **[StrixHaloClusterDS41](https://github.com/0xfunboy/StrixHaloClusterDS41)**: an experimental DeepSeek V4.1 Flash runtime fork of HaloClu, exploring deployment on the same dual-Strix Halo platform.
 
 I keep speed claims attached to their **model, quantization, prompt and measurement conditions**. Numerical correctness, reproducible tests and retained failure results guide the work. See HaloClu's [qualification record](https://github.com/0xfunboy/StrixHaloClusterGLM/blob/main/QUALIFICATION.md) for the tested scope and current limits.
 
@@ -118,10 +118,10 @@ I keep speed claims attached to their **model, quantization, prompt and measurem
 
 Beyond the projects above, I build the components that give those agents a presence:
 
-- **Voice and avatars** — [Eliza2Face](https://github.com/0xfunboy/Eliza2Face) connects local TTS to avatar-ready audio; my [Unreal Engine SDK fork](https://github.com/0xfunboy/AIR3-ElizaOS-UnrealE55-SDK) explores conversational agents with environment perception and in-world actions.
-- **Platform integrations** — ElizaOS clients for [Twitch](https://github.com/0xfunboy/client-twitch), [Reddit](https://github.com/0xfunboy/client-reddit), [Farcaster](https://github.com/0xfunboy/client-farcaster) and [Telegram](https://github.com/0xfunboy/client-telegram-airifica).
-- **Markets and on-chain workflows** — [AIRTrack](https://github.com/0xfunboy/AIRTrack) for agent trade tracking, [RIP2ETF](https://github.com/0xfunboy/RIP2ETF) for structured ETF snapshots and [ZordBOT](https://github.com/0xfunboy/ZordBOT) for Zcash Ordinal mint orchestration.
-- **Physical signals and models** — [Somatic / SomaBridge](https://github.com/0xfunboy/Somatic), a research prototype exploring machine telemetry, learned sensor projections and embodied agent interfaces.
+- **Voice and avatars**: [Eliza2Face](https://github.com/0xfunboy/Eliza2Face) connects local TTS to avatar-ready audio; my [Unreal Engine SDK fork](https://github.com/0xfunboy/AIR3-ElizaOS-UnrealE55-SDK) explores conversational agents with environment perception and in-world actions.
+- **Platform integrations**: ElizaOS clients for [Twitch](https://github.com/0xfunboy/client-twitch), [Reddit](https://github.com/0xfunboy/client-reddit), [Farcaster](https://github.com/0xfunboy/client-farcaster) and [Telegram](https://github.com/0xfunboy/client-telegram-airifica).
+- **Markets and on-chain workflows**: [AIRTrack](https://github.com/0xfunboy/AIRTrack) for agent trade tracking, [RIP2ETF](https://github.com/0xfunboy/RIP2ETF) for structured ETF snapshots and [ZordBOT](https://github.com/0xfunboy/ZordBOT) for Zcash Ordinal mint orchestration.
+- **Physical signals and models**: [Somatic / SomaBridge](https://github.com/0xfunboy/Somatic), a research prototype exploring machine telemetry, learned sensor projections and embodied agent interfaces.
 
 ## How I work
 
@@ -184,3 +184,5 @@ A nod to my retrogaming roots, tracing the contribution calendar one square at a
   <a href="https://t.me/funboynft">Telegram</a> ·
   <a href="https://github.com/0xfunboy?tab=repositories">Explore all repositories</a>
 </p>
+
+<p align="center"><sub>Original profile content: <a href="LICENSE.md">0xfunboy Non-Commercial License</a> · <a href="LICENSING.md">Scope and attribution</a></sub></p>
