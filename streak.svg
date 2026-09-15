@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="250" viewBox="0 0 680 250" role="img" aria-labelledby="title desc">
+<title id="title">Contribution streaks and total</title><desc id="desc">Publicly visible GitHub contribution calendar from 2025-09-14 to 2026-09-15, UTC. Current streak: 7 days. Longest streak in this window: 24 days, 2026-04-23 to 2026-05-16. Total contributions in the window: 3023. An empty current UTC day does not yet break yesterday&#x27;s run. GitHub may include publicly anonymized private activity if the profile owner enabled it.</desc>
+<rect width="680" height="250" rx="14" fill="#0b1119"/>
+<rect x="1" y="1" width="678" height="248" rx="13" fill="none" stroke="#293543"/>
+<path d="M 28 0 V 13" stroke="#fb923c" stroke-width="3"/>
+<g font-family="Inter, -apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Arial, sans-serif">
+<text x="28" y="42" fill="#f0f4f8" font-size="22" font-weight="600" text-anchor="start">CONSISTENCY</text>
+<text x="28" y="72" fill="#aab6c3" font-size="16" font-weight="400" text-anchor="start">Public profile calendar · 2025-09-14 → 2026-09-15 · UTC</text>
+<text x="28" y="143" fill="#fb923c" font-size="52" font-weight="650" text-anchor="start">7</text>
+<text x="28" y="175" fill="#aab6c3" font-size="18" font-weight="400" text-anchor="start">Current · days</text>
+<text x="251" y="143" fill="#f0f4f8" font-size="52" font-weight="650" text-anchor="start">24</text>
+<text x="251" y="175" fill="#aab6c3" font-size="18" font-weight="400" text-anchor="start">Longest · days</text>
+<text x="466" y="143" fill="#88c7cc" font-size="52" font-weight="650" text-anchor="start">3,023</text>
+<text x="466" y="175" fill="#aab6c3" font-size="18" font-weight="400" text-anchor="start">Contributions</text>
+<path d="M 28 199 H 652" stroke="#293543"/>
+<text x="28" y="227" fill="#aab6c3" font-size="17" font-weight="400" text-anchor="start">Rolling calendar · current day may be incomplete</text>
+</g></svg>
