@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="304" viewBox="0 0 440 304" role="img" aria-labelledby="title desc">
+<title id="title">Code composition by language bytes</title><desc id="desc">Aggregated GitHub language bytes across public, owned non-fork repositories. TypeScript: 15,491,337 bytes (42.5%); Rust: 6,629,436 bytes (18.2%); Python: 4,841,688 bytes (13.3%); Go: 2,651,006 bytes (7.3%); JavaScript: 2,613,821 bytes (7.2%); C++: 1,206,500 bytes (3.3%); PHP: 857,611 bytes (2.4%); HTML: 736,199 bytes (2.0%); Shell: 699,301 bytes (1.9%); Vue: 340,730 bytes (0.9%); CSS: 324,318 bytes (0.9%); PowerShell: 6,527 bytes (0.0%); C: 6,248 bytes (0.0%); Cuda: 5,593 bytes (0.0%); Dockerfile: 5,560 bytes (0.0%); CMake: 3,326 bytes (0.0%); Makefile: 2,335 bytes (0.0%); Just: 1,652 bytes (0.0%); Hack: 1,320 bytes (0.0%); VBScript: 185 bytes (0.0%). This measures repository composition, not personal proficiency or lines authored.</desc>
+<rect width="440" height="304" rx="14" fill="#0b1119"/>
+<rect x="1" y="1" width="438" height="302" rx="13" fill="none" stroke="#293543"/>
+<path d="M 28 0 V 13" stroke="#fb923c" stroke-width="3"/>
+<g font-family="Inter, -apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, Arial, sans-serif">
+<text x="28" y="40" fill="#f0f4f8" font-size="19" font-weight="600" text-anchor="start">CODE COMPOSITION</text>
+<text x="28" y="65" fill="#aab6c3" font-size="12" font-weight="400" text-anchor="start">Public, owned non-fork repos · language bytes</text>
+<rect x="28.000" y="86" width="163.314" height="12" fill="#fb923c"/>
+<circle cx="33" cy="122" r="4" fill="#fb923c"/>
+<text x="47" y="127" fill="#f0f4f8" font-size="14" font-weight="400" text-anchor="start">TypeScript</text>
+<text x="412" y="127" fill="#aab6c3" font-size="14" font-weight="400" text-anchor="end">42.5%</text>
+<rect x="191.314" y="86" width="69.889" height="12" fill="#88c7cc"/>
+<circle cx="33" cy="147" r="4" fill="#88c7cc"/>
+<text x="47" y="152" fill="#f0f4f8" font-size="14" font-weight="400" text-anchor="start">Rust</text>
+<text x="412" y="152" fill="#aab6c3" font-size="14" font-weight="400" text-anchor="end">18.2%</text>
+<rect x="261.204" y="86" width="51.043" height="12" fill="#d4b894"/>
+<circle cx="33" cy="172" r="4" fill="#d4b894"/>
+<text x="47" y="177" fill="#f0f4f8" font-size="14" font-weight="400" text-anchor="start">Python</text>
+<text x="412" y="177" fill="#aab6c3" font-size="14" font-weight="400" text-anchor="end">13.3%</text>
+<rect x="312.246" y="86" width="27.948" height="12" fill="#9eaebe"/>
+<circle cx="33" cy="197" r="4" fill="#9eaebe"/>
+<text x="47" y="202" fill="#f0f4f8" font-size="14" font-weight="400" text-anchor="start">Go</text>
+<text x="412" y="202" fill="#aab6c3" font-size="14" font-weight="400" text-anchor="end">7.3%</text>
+<rect x="340.194" y="86" width="27.556" height="12" fill="#5e839a"/>
+<circle cx="33" cy="222" r="4" fill="#5e839a"/>
+<text x="47" y="227" fill="#f0f4f8" font-size="14" font-weight="400" text-anchor="start">JavaScript</text>
+<text x="412" y="227" fill="#aab6c3" font-size="14" font-weight="400" text-anchor="end">7.2%</text>
+<rect x="367.750" y="86" width="44.250" height="12" fill="#46525f"/>
+<circle cx="33" cy="247" r="4" fill="#46525f"/>
+<text x="47" y="252" fill="#f0f4f8" font-size="14" font-weight="400" text-anchor="start">Other</text>
+<text x="412" y="252" fill="#aab6c3" font-size="14" font-weight="400" text-anchor="end">11.5%</text>
+<path d="M 28 264 H 412" stroke="#293543"/>
+<text x="28" y="286" fill="#aab6c3" font-size="11" font-weight="400" text-anchor="start">Languages by code volume · GitHub REST</text>
+</g></svg>
